@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+    <item>Москва</item>
+    <item>Санкт-Петербург</item>
+    <item>Краснодар</item>
+    <item>Новосибирск</item>
+    <item>Улан-Удэ</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>18</item>
+        <item>12</item>
+        <item>27</item>
+        <item>22</item>
+        <item>20</item>
+    </string-array>
+
+</resources>
